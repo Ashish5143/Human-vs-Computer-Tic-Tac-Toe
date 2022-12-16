@@ -4,6 +4,5 @@ Minimax is a kind of backtracking algorithm that is used in decision making and 
 
 Game Link - https://ashish5143.github.io/Human-vs-Computer-Tic-Tac-Toe/
 
-![Screenshot (6)](https://user-images.githubusercontent.com/120575887/208071987-42f46a51-4644-4a8c-a802-49a249219d95.png)
 
   
